@@ -86,7 +86,7 @@ body {
 .grid {
   display: grid;
   row-gap: 9.6rem;
-  column-gap: 8rem;
+  column-gap: 6.4rem;
   /* margin-bottom: 9.6rem; */
 }
 .grid:last-child {
