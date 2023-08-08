@@ -288,7 +288,7 @@
 .section-testimonials {
   background-color: #fdf2e9;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 55fr 45fr;
   align-items: center;
 }
 
@@ -298,7 +298,7 @@
 
 .testtimonials {
   display: grid;
-  grid-template-columns: 55fr 45fr;
+  grid-template-columns: 1fr 1fr;
   row-gap: 4.8rem;
   column-gap: 8rem;
 }
